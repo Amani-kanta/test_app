@@ -1,0 +1,85 @@
+    1  pwd
+    2  pwd
+    3  ls
+    4  -lrt
+    5  ls -lrt
+    6  pwd
+    7  pwd
+    8  pwd
+    9  ls
+   10  q!
+   11  wq!
+   12  pwd
+   13  ls
+   14  mkdir test_app
+   15  ls
+   16  cd amani excel
+   17  cd amani excel
+   18  cd visa doc
+   19  cd visadoc
+   20  cd visa_doc
+   21  cd test_app
+   22  clear
+   23  pwd
+   24  ..
+   25  ../
+   26  ../..
+   27  ./.
+   28  clear
+   29  ls
+   30  cd ..
+   31  cd .
+   32  ls
+   33  cd "amani excel"
+   34  ls
+   35  cd ..
+   36  cd...
+   37  cd ...
+   38  clear
+   39  cd test_app
+   40  ..
+   41  cd ..
+   42  cd test_app
+   43  pwd
+   44   mkdir test1
+   45  mikdir test2 test3 test4
+   46  mkdir test2 test3 test4
+   47  rmdir test4
+   48  rmdir test1
+   49  rm -r test1
+   50  cd test1
+   51  cd test2
+   52  ls
+   53  cd ..
+   54  clear
+   55  rmdir test_app
+   56  rmdir test_app
+   57  touch f1.txt
+   58  touch f2.sql f3.py
+   59  cat f1.txt
+   60  nano f1.txt
+   61  nano f3.py 
+   62  cat f3.py
+   63  history
+   64  history >> commands.txt
+   65  cd test_app
+   66  ls
+   67  mkdir test_app
+   68  ls
+   69  cd tset_app
+   70  cd test_app
+   71  mkdir test1 test2 test3
+   72  rmdir test3
+   73  ls
+   74  ls -lrt
+   75  cd test_app
+   76  rm -r test1
+   77  touch f1.txt
+   78  touch f2.sql f3.py 
+   79  cat f1.txt
+   80  cat f1.txt
+   81  cat f1
+   82  cat f1.txt
+   83  nano f3.py
+   84  cat f3.py
+   85  history >> command.txt
